@@ -1,0 +1,7 @@
+{
+  "inputFile" : "StudentOtcs.csv",
+  "rowPerFile": 500,
+  "rootOutput": "D:\\Data",
+  "startNumber": 50000,
+  "patternDir": "data-{0}\\Data"
+}
